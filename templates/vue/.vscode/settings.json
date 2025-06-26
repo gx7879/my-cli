@@ -21,5 +21,9 @@
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "remote.extensionKind": {
+    "GitHub.copilot": ["ui"],
+    "GitHub.copilot-chat": ["ui"]
   }
 }
